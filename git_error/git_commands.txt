@@ -1,0 +1,4 @@
+1. if unrelated histories are available, use below command 
+   $ git pull origin master --allow-unrelated-histories
+   
+2. if 
