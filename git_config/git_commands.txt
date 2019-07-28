@@ -13,3 +13,9 @@
 13.  $ git merge <branch-name>  (it merges the two branches. you could be into any of the branch and select any other branch to merge the code as required.)
 14.  $ git branch (it shows the branch belongs to a repository).
 15.  $ git config -l (it lists out the your repositorie's global data)
+
+Configure user and password for Github.com
+git config --global user.name myusername
+git config --global user.email myemail
+git config --global github.user myusername
+git config --global github.token mytoken
